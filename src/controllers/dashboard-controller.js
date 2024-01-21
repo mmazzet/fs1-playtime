@@ -25,4 +25,12 @@ export const dashboardController = {
       return h.redirect("/dashboard");
     },
   },
+
+  deletePlaylist: {
+    handler: async function (request, h) {
+      const playlistId = request.params.id;
+      await db.playlistStore.deletePlaylistById(playlistId);
+      return h.redirect("/dashboard");
+    }
+  }
 };
