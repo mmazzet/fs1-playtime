@@ -1,5 +1,20 @@
 {
-  "users": [],
+  "users": [
+    {
+      "firstName": "Marge",
+      "lastName": "Simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "_id": "e90271af-2287-4155-b613-69da1d1d87d3"
+    },
+    {
+      "firstName": "Bart",
+      "lastName": "Simpson",
+      "email": "bart@simpson.com",
+      "password": "secret",
+      "_id": "da6898a7-e785-4b70-86d9-62ee779e902a"
+    }
+  ],
   "playlists": [
     {
       "userid": "82e3c778-b8f3-4c76-bdeb-e6e01b583436",
