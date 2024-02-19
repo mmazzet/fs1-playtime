@@ -24,60 +24,31 @@
   ],
   "playlists": [
     {
-      "title": "Beethoven Sonatas",
-      "_id": "3713b284-19c3-4ce9-9428-989815ff48b8"
-    },
-    {
-      "title": "Beethoven Concertos",
-      "_id": "3951c204-7930-4f8f-8e4a-b5b4f7045e42"
-    },
-    {
-      "title": "Beethoven Symphonies",
-      "_id": "c9e0d1c4-687c-4cc8-b6c4-e2080d1686fb"
+      "title": "Mozart Favourites",
+      "_id": "d2fca623-2db4-4abc-b40c-cd8cae608542"
     }
   ],
   "tracks": [
     {
-      "title": "t1",
-      "artist": "t",
-      "duration": 1,
-      "_id": "bcfbd626-5763-4b95-ae8f-2c5ac83d7e27",
-      "playlistid": "3b1106b9-0c65-41f2-a003-ce9fcc7f2e69"
+      "title": "Piano Sonata No. 3",
+      "artist": "Beethoven",
+      "duration": 5,
+      "_id": "2adbeb66-35f5-458c-8b79-3ffdbc289001",
+      "playlistid": "d2fca623-2db4-4abc-b40c-cd8cae608542"
     },
     {
-      "title": "t2",
-      "artist": "tt",
-      "duration": 2,
-      "_id": "f9980a76-3a4f-4a5b-a4ac-026caa956367",
-      "playlistid": "3b1106b9-0c65-41f2-a003-ce9fcc7f2e69"
+      "title": "Piano Sonata No. 7",
+      "artist": "Beethoven",
+      "duration": 6,
+      "_id": "a33ac110-9130-42be-b762-93e27ff10c4e",
+      "playlistid": "d2fca623-2db4-4abc-b40c-cd8cae608542"
     },
     {
-      "title": "t",
-      "artist": "t",
-      "duration": 1,
-      "_id": "3226d1a1-711b-4515-8a5f-ddf6592a0e03",
-      "playlistid": "68902d30-e2b1-4a92-ac53-1ea6338ec577"
-    },
-    {
-      "title": "t1",
-      "artist": "a",
-      "duration": 1,
-      "_id": "1f396b35-db60-4c7b-af16-cd1769b54a7b",
-      "playlistid": "aef6ef36-8145-4f56-aef9-a6ca508a4a62"
-    },
-    {
-      "title": "t2",
-      "artist": "b",
-      "duration": 3,
-      "_id": "fd05de14-a575-4616-a123-e1cfd2f77e25",
-      "playlistid": "aef6ef36-8145-4f56-aef9-a6ca508a4a62"
-    },
-    {
-      "title": "t3",
-      "artist": "c",
+      "title": "Piano Sonata No. 10",
+      "artist": "Beethoven",
       "duration": 4,
-      "_id": "2ec4d5a6-496f-4bda-9b26-a07718bf495c",
-      "playlistid": "aef6ef36-8145-4f56-aef9-a6ca508a4a62"
+      "_id": "a998f4cb-626a-4e0c-a48c-dd587c7ad65e",
+      "playlistid": "d2fca623-2db4-4abc-b40c-cd8cae608542"
     }
   ]
 }
