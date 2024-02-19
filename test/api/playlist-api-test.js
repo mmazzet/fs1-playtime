@@ -11,6 +11,7 @@ suite("Playlist API tests", () => {
   let user = null;
 
   setup(async () => {
+    db.init("json");
     await playtimeService.deleteAllPlaylists();
     await playtimeService.deleteAllUsers();
     user = await playtimeService.createUser(maggie);
